@@ -1,2 +1,2 @@
 # Simple_Form
-Part of the front-end course at Meta
+Part of the Front-End course offered by Meta
